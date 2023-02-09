@@ -1,3 +1,5 @@
+![logo arch](https://user-images.githubusercontent.com/111684119/217778112-c8543ee9-21af-4cdd-8c1a-3e77d88efd89.jpg)
+
 # Cohere-Interview-Bot
 A chatbot that helps the candidate to prepare for behavioural and technical interview questions by analysing his resume and job description.
 
